@@ -1,3 +1,3 @@
 # cs204-candycrush-game
- Game that similar to candy crush logic which i did as homework in c++ advenced course, you can find homowork file in project to understand better what game is about.
+A game similar to Candy Crush in logic, which I created as a homework assignment for my C++ advanced course. You can find the homework file in the project to better understand what the game is about.
  Sample cases to test the code is also added.
